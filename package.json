@@ -1,7 +1,7 @@
 {
-  "name": "react-simple-dropdown",
-  "version": "3.2.3",
-  "description": "Non-prescriptive React.js dropdown toolkit",
+  "name": "@everymundo/react-simple-dropdown",
+  "version": "1.0.0",
+  "description": "React.js dropdown toolkit",
   "main": "lib/components/dropdown.js",
   "scripts": {
     "prepublish": "npm run build",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fauntleroy/react-simple-dropdown.git"
+    "url": "https://github.com/EveryMundo/react-simple-dropdown"
   },
   "keywords": [
     "react",
@@ -33,16 +33,11 @@
     "component",
     "dropdown"
   ],
-  "author": {
-    "name": "Timothy Kempf",
-    "email": "tim@kemp59f.info",
-    "url": "http://kempfffffffffffffffffffffffffffffffffffffffffffffffffffffffffff.info"
-  },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fauntleroy/react-simple-dropdown/issues"
+    "url": "https://github.com/EveryMundo/react-simple-dropdown/issues"
   },
-  "homepage": "https://github.com/Fauntleroy/react-simple-dropdown",
+  "homepage": "https://github.com/EveryMundo/react-simple-dropdown",
   "dependencies": {
     "classnames": "^2.1.2",
     "prop-types": "^15.5.8"
